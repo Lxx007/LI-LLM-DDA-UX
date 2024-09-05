@@ -11,13 +11,13 @@ This folder contains two folds and three Python scripts.
 # Fold "GameSimulationDetail"
 This folder publicizes all the data we generated using ChatGPT-4
 # Fold "HumanEvaluator_Dice"
-This folder contains one folder called "PlayerData", which publicizes all players' responses to our questionnaire(Game Log).
-This folder contains four Python scripts.
+1. This folder contains one folder called "PlayerData", which publicizes all players' responses to our questionnaire(Game Log).
+2. This folder contains four Python scripts.
 They are listed as follows:
-DataCleaning.py -- Extracting questionnaire data from game logs
-Dice_Project.py -- Main script about our rating and classification
-Plays.py -- 11 representative data
-ScoringSystem.py -- Scoring algorithm and our detailed game group settings
+A. DataCleaning.py -- Extracting questionnaire data from game logs
+B. Dice_Project.py -- Main script about our rating and classification
+C. Plays.py -- 11 representative data
+D. ScoringSystem.py -- Scoring algorithm and our detailed game group settings
 # DicePlayGeneration.py
 Our paper's stage 1, which contains our prompt 1
 # RepresentativeSelection.py
