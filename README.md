@@ -18,7 +18,7 @@ They are listed as follows:
 
 A. DataCleaning.py -- Extracting questionnaire data from game logs
 
-B. Dice_Project.py -- Main script about our rating and classification
+B. Dice_Project.py -- Main script about our rating and classification algorithm
 
 C. Plays.py -- 11 representative data
 
