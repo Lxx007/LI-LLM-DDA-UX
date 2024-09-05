@@ -3,7 +3,7 @@ This is the supplement files for the paper "LI: The concept of prompt design for
 # SourceCode
 This folder contains all of our source code, prompts, and raw data for the questionnaire.
 Please note:
-1. The source code uses the API of ChatGPT-4o. please prepare your own API-key when you need to use our code to use OpenAI API.
+1. The source code uses the API of ChatGPT-4o. Please prepare your own API-key when you need to use our code to use OpenAI API.
 2. The default relative position (commented) has been set in the code, please adjust it yourself if needed.
 3. Python version >= 3.10
 # SourceCode/Project_DiceLLM
