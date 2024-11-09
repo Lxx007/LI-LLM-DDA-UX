@@ -17,7 +17,7 @@ Additionally, all prompts (Play Prompt, Classifying Prompt, and Rating Prompt) a
 This folder contains all the data we generated using GPT-4o.
 # Fold "HumanEvaluator_Dice"
 1. This folder contains a subfolder called “PlayerData,” which includes all players’ responses to our questionnaire (Game Log).
-2. TThis folder contains four Python scripts:
+2. This folder contains four Python scripts:
 A. DataCleaning.py – Extracting questionnaire data from game logs
 B. Dice_Project.py – Main script for our rating and classification algorithm
 C. Plays.py – 11 representative data sets
