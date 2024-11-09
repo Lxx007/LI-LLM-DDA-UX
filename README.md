@@ -1,5 +1,6 @@
 # LI-LLM-DDA-UX
 This is the supplement files for the paper "LI: The concept of prompt design for a LLM to DDA with a better UX"
+
 Our experiment flow:
 <img src="https://github.com/Lxx007/LI-LLM-DDA-UX/blob/main/Flow.png" width="1000" />
 
