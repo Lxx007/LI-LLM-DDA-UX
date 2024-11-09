@@ -3,7 +3,7 @@ This is the supplement files for the paper "LI: The concept of prompt design for
 
 Our experiment flow
 
-<img src="https://github.com/Lxx007/LI-LLM-DDA-UX/blob/main/Flow.png" width="500" />
+<img src="https://github.com/Lxx007/LI-LLM-DDA-UX/blob/main/Flow.png" width="1000" />
 # SourceCode
 This folder contains all of our source code, prompts, and raw data for the questionnaire.
 Please note:
