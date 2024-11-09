@@ -1,5 +1,5 @@
 # LI-LLM-DDA-UX
-This is the supplement files for the paper "LI: The concept of prompt design for a LLM to DDA with a better UX"
+This is the supplement files for the paper "Personalized Game Difficulty with Large Language Models: A Preliminary Study"
 
 Our experiment flow:
 <img src="https://github.com/Lxx007/LI-LLM-DDA-UX/blob/main/Flow.png" width="1000" />
@@ -12,6 +12,7 @@ Please note:
 3. Python version >= 3.10
 # SourceCode/Project_DiceLLM
 This folder contains two folds and three Python scripts.
+In addition, all prompts (Play Prompt, Classifing prompt and Rating prompt) also exposed here.
 # Fold "GameSimulationDetail"
 This folder publicizes all the data we generated using ChatGPT-4
 # Fold "HumanEvaluator_Dice"
